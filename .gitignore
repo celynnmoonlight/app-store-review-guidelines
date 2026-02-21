@@ -1,0 +1,29 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editors & IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Python (if scripts are added later)
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
